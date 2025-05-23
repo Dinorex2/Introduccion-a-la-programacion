@@ -1,0 +1,14 @@
+c:\Users\SISTEMAS2-35\ejemplo\bin\Debug\net9.0\ejemplo.exe
+C:\Users\SISTEMAS2-35\ejemplo\bin\Debug\net9.0\ejemplo.deps.json
+C:\Users\SISTEMAS2-35\ejemplo\bin\Debug\net9.0\ejemplo.runtimeconfig.json
+c:\Users\SISTEMAS2-35\ejemplo\bin\Debug\net9.0\ejemplo.dll
+c:\Users\SISTEMAS2-35\ejemplo\bin\Debug\net9.0\ejemplo.pdb
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.AssemblyInfoInputs.cache
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.AssemblyInfo.cs
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.csproj.CoreCompileInputs.cache
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.dll
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\refint\ejemplo.dll
+c:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.pdb
+C:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ejemplo.genruntimeconfig.cache
+C:\Users\SISTEMAS2-35\ejemplo\obj\Debug\net9.0\ref\ejemplo.dll
